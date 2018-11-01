@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0
+}
+
+/* estilos de pagina Inicio*/
+.page1{
+    width: 970px;
+    height: 1390px;
+    margin: 60px 0 0 80px;
+    background-color: blueviolet;
+    padding: 10px 0 30px 0;
+}
+.page1 article, .page1 div, .page1 aside{
+    width: 900px;
+}
+.page1 article{
+    height: 600px;
+    margin: 0 30px 20px 40px;
+    background-color: blue;
+}
+.page1 div{
+    height: 400px;
+    margin: 0 10px 30px 60px;
+    background-color: red;
+}
+.page1 aside{
+    height: 300px;
+    margin: 0 40px 0 30px;
+    background-color: yellow;
+}
+/*page2*/
+
+.page2{
+    width: 895px;
+    height: 950px;
+    margin: 60px 0 0 80px;
+    background-color: green;
+    padding: 30px 0 25px 0;
+}
+.page2a{
+    width: 835px;
+    height: 260px;
+    margin: 30px 20px 15px 40px;
+    background-color: gold;
+    padding-top: 10px;
+}
+.page2aa{
+    width: 800px;
+    height: 100px;
+    margin: 30px 15px 20px 20px;
+    background-color: brown;
+}
+.page2aaa{
+    width: 800px;
+    height: 100px;
+    margin: 20px 15px 10px 20px;
+    background-color: hotpink;
+}
+.page2ab{
+    width: 835px;
+    height: 350px;
+    margin: 15px 30px 20px 30px;
+    background-color: mediumseagreen;
+    padding-top: 10px;
+}
+.page2ac{
+    width: 800px;
+    height: 300px;
+    margin: 30px 25px 20px 10px;
+    background-color: navy;
+
+}
