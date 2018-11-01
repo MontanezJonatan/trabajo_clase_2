@@ -69,5 +69,27 @@
     height: 300px;
     margin: 30px 25px 20px 10px;
     background-color: navy;
-
+}
+.page2c{
+    width: 835px;
+    height: 250px;
+    margin: 20px 15px 25px 25px;
+    background-color: darkturquoise;
+}
+/*page3*/
+.page3{
+    width: 980px;
+    height: 830px;
+    margin: 40px 0 0 30px;
+    background-color:yellow;
+    padding: 10px 0 10px 0;
+}
+.page3b{
+    width: 900px;
+    height: 300px;
+    margin: 10px 40px 30px 40px;
+    background-color: goldenrod; 
+}
+.page3bc{
+    
 }
