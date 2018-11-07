@@ -77,19 +77,70 @@
     background-color: darkturquoise;
 }
 /*page3*/
-.page3{
-    width: 980px;
-    height: 830px;
-    margin: 40px 0 0 30px;
-    background-color:yellow;
-    padding: 10px 0 10px 0;
+
+/*page4*/
+.page4{
+    width: 1000px;
+    height: 1200px;
+    margin: 40px;
+    background-color: red;
+    padding: 10px;
+  
 }
-.page3b{
+.page4m{
+    width: 960px;
+    height: 1160px;
+    margin: 20px 20px 20px 20px;
+    padding-top: 1px;
+    background-color: yellow;
+    border: 0;
+}
+.page4ma{
     width: 900px;
-    height: 300px;
-    margin: 10px 40px 30px 40px;
-    background-color: goldenrod; 
+    height: 1100px;
+    margin: 30px;
+    padding-top: 1px;
+    background-color: blue;
 }
-.page3bc{
-    
+.page4ai{
+    width: 880px;
+    height: 520px;
+    margin: 20px 10px 20px 10px;
+    padding-top: 1px;
+    background-color: green;
+}
+.page4nn{
+    width: 840px;
+    height: 500px;
+    margin: 10px 20px 10px 20px;
+    padding-top: 1px;
+    background-color: saddlebrown;
+}
+.page4mm{
+    width: 780px;
+    height: 460px;
+    margin: 20px 30px 20px 30px;
+    padding-top: 1px;
+    background-color: indigo;
+}
+.page4bn{
+   width: 880px;
+   height:520px;
+   margin: 20px 10px 20px 10px;
+   padding-top: 1px;
+   background-color: black;
+}
+.page4xx{
+    width:840px ;
+    height: 500px;
+    margin: 10px 20px 10px 20px;
+    padding-top: 1px;
+    background-color:teal; 
+}
+.page4hh{
+    width: 780px;
+    height: 460px;
+    margin: 20px 30px 20px 30px;
+    padding-top:1px ;
+    background-color: firebrick;
 }
